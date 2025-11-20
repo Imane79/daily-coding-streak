@@ -1,0 +1,4 @@
+Password Strength Checker
+Skills: String manipulation, regex, conditional logic
+What you'll build: Input field that shows password strength in real-time
+Bonus: Visual progress bar
